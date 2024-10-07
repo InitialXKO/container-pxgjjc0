@@ -1,3 +1,15 @@
+# v0.0.3 (Mon Oct 07 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update Dockerfile ([@InitialXKO](https://github.com/InitialXKO))
+
+#### Authors: 1
+
+- [@InitialXKO](https://github.com/InitialXKO)
+
+---
+
 # v0.0.2 (Mon Oct 07 2024)
 
 #### ⚠️ Pushed to `main`
